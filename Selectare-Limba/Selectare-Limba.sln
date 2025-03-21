@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Selectare-Limba", "Selectare-Limba\Selectare-Limba.csproj", "{164141E2-011B-48E5-99B6-050B28B076DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{164141E2-011B-48E5-99B6-050B28B076DC}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{164141E2-011B-48E5-99B6-050B28B076DC}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{164141E2-011B-48E5-99B6-050B28B076DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164141E2-011B-48E5-99B6-050B28B076DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C07A432-C4C0-4CB0-9627-4846507060D5}
+	EndGlobalSection
+EndGlobal
